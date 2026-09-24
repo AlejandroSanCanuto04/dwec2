@@ -1,5 +1,5 @@
 
-console.log(comprobarDni("24444051R"))
+console.log(comprobarDni("24444051l"))
 
 function comprobarDni(dni){
 
